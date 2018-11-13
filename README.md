@@ -15,7 +15,7 @@
 		<!-- Enlaces a archivos externos que definen estilos css -->
 		<link href="style/bootstrap.min.css" rel="stylesheet">
 		<link href="style/font-awesome.min.css" rel="stylesheet">
-		<link href="style/animate.min.css" rel="stylesheet"> 
+		<link href="style/aniate.min.css" rel="stylesheet"> 
 		<link href="style/lightbox.css" rel="stylesheet"> 
 		<link href="style/main.css" rel="stylesheet">
 		<link href="style/responsive.css" rel="stylesheet">
@@ -43,7 +43,9 @@
 	<body>
 		<!-- ================================================================================================================ -->
 		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-		<header id="header">
+        <body background-image="file:///C:/Users/u_38016571/Desktop/1%C2%AAA3D/space-1164579_640.png">
+        </body>
+		<header id="header" img="file:///C:/Users/u_38016571/Desktop/1%C2%AAA3D/RAY/Deadpool-sorpresa-gif.gif" width="700" height="550">
 			<div class="container">
 
 				<div class="row">
@@ -52,9 +54,7 @@
 							<ul class="nav nav-pills">
 								<li><a href="https://www.facebook.com/chris.casanova.311"><i class="fa fa-facebook"></i></a></li>
 								<li><a href="https://mobile.twitter.com/christi0700"><i class="fa fa-twitter"></i></a></li>
-								<li><a href=""><i class="fa fa-google-plus"></i></a></li>
-								<li><a href=""><i class="fa fa-dribbble"></i></a></li>
-								<li><a href=""><i class="fa fa-linkedin"></i></a></li>
+								<li><a href="https://plus.google.com/discover"><i class="fa fa-google-plus"></i></a></li>
 							</ul>
 						</div> 
 					</div>
@@ -84,7 +84,7 @@
 						<ul class="nav navbar-nav navbar-right">
 							<li class="active"><a href="index.html">Inicio</a></li>
 
-							<li class="dropdown"><a href="pages/teoria.html">Teoría <i class="fa fa-angle-down"></i></a>
+							<li class="dropdown"><a href="pages/teoria.html">Teoría<i class="fa fa-angle-down"></i></a> 
 								<ul role="menu" class="sub-menu">
 									<li><a href="pages/tema001.html">Tema 1</a></li>
 									<!--
@@ -100,7 +100,7 @@
 								</ul>
 							</li>
 
-							<li class="dropdown"><a href="pages/practicas.html">Prácticas <i class="fa fa-angle-down"></i></a>
+							<li class="dropdown"><a href="pages/practicas.html">Prácticas<i class="fa fa-angle-down"></i></a>
 								<ul role="menu" class="sub-menu">
 									<li><a href="pages/ejercicio001.html">Ejercicios 1</a></li>
 
@@ -159,14 +159,17 @@
 					<div class="main-slider">
 						<div class="slide-text">
 							<h1>Christian Casanova - Diseños 3D </h1>
-							<p>Aprendiendo juntos los conceptos y usos de las interfaces de usuario en proyectos multimedia</p>
+							<p style="color: White;"> Aprendiendo juntos los conceptos y usos de las
+							 interfaces de usuario en proyectos multimedia </p>
 							<a href="pages/teoria.html" class="btn btn-common">Empecemos</a>
-						</div>
+							</div>
 
-						<img src="https://images-na.ssl-images-amazon.com/images/I/51zJgqhg0aL._SX425_.jpg" class="slider-hill" alt="slider image">
-						<img src="file:///C:/Users/u_38016571/Desktop/1%C2%AAA3D/halcon%20milenario/halconmilenario01.jpg" class="slider-house" alt="slider image" width="150" height="100">
-						<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp4nth8OHkvM2WPBT_3etoAY7zmSLGxx84fTxOydRAmCGFSnfkkg" class="slider-sun" alt="slider image" width="50" height="50">
-						<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp4nth8OHkvM2WPBT_3etoAY7zmSLGxx84fTxOydRAmCGFSnfkkg" class="slider-birds1" alt="slider image" width="50" height="50">
+						<img src="http://www.periodistadigital.com/imagenes/2018/06/03/estrella-de-la-muerte_560x280.jpg" class="slider-hill" alt="slider image" width="550" height="350">
+						<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3F9-9Wuklb0UMcK7E8J5hFrfo2ZhFVuEqV0ZVg2MtJD7sNu84" class="slider-house" alt="slider image" width="200" height="150">
+						<img src="file:///C:/Users/u_38016571/Desktop/1%C2%AAA3D/batllespaceship.png" class="slider-birds1" alt="slider image">
+						<img src="file:///C:/Users/u_38016571/Desktop/1%C2%AAA3D/batllespaceship.png" class="slider-birds2" alt="slider image">
+					</div>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -180,7 +183,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-12 text-center bottom-separator">
-						<img src="http://tusimagenesde.com/wp-content/uploads/2017/12/imagen-en-blanco-3.jpg" class="img-responsive inline" alt="">
+						<img src="" class="img-responsive inline" alt="">
 					</div>
 					
 					<div class="col-md-4 col-sm-6">
@@ -191,7 +194,7 @@
 									<a href="#"><img src="" alt=""></a>
 								</div>
 								<div class="media-body">
-									<blockquote>Las interfaces básicas de usuario son aquellas que incluyen cosas como menús, ventanas, teclado, ratón, y algunos otros sonidos que la computadora hace, en general, todos aquellos canales por los cuales se permite la comunicación entre el hombre y la computadora..</blockquote>
+									<blockquote style="color: White;">Las interfaces básicas de usuario son aquellas que incluyen cosas como menús, ventanas, teclado, ratón, y algunos otros sonidos que la computadora hace, en general, todos aquellos canales por los cuales se permite la comunicación entre el hombre y la computadora..</blockquote>
 									<h3><a target="_blank" href="http://hcibib.org/tcuid/">-Lewis y Rieman (1993)</a></h3>
 								</div>
 							</div>
@@ -209,12 +212,11 @@
 						</div> 
 					</div>
 					<div class="col-md-3 col-sm-6">
-						<div class="contact-info bottom">
+						<div class="contact-info bottom" style="color: White;">
 							<h2>Contacto</h2>
 							<address>
 							E-mail: <a href="mailto:someone@example.com">Christian3107.ce@gmail.com</a> <br> 
 							Teléfono: +34 603502867 <br> 
-							Fax: +.. (...) ... ... <br> 
 							</address>
 
 							<h2>Dirección</h2>
